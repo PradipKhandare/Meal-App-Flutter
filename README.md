@@ -18,10 +18,3 @@ Here are some screenshots of the app:
 4]The following screen is favorite screen, user can add meals into favorite
 ![image](https://github.com/PradipKhandare/Meal-App-Flutter/assets/121931206/6a5beaf7-dbd8-46cb-8fd2-ed2cf5b5539b)
 
-5]There is drawer to user friendly navigation
-![image](https://github.com/PradipKhandare/Meal-App-Flutter/assets/121931206/e5c10451-857a-46a5-8f41-db82d5c0a059)
-
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
